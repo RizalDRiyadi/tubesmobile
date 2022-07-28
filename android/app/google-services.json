@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "78829641647",
+    "project_id": "fir-ijal",
+    "storage_bucket": "fir-ijal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78829641647:android:db210fe0bd8090847e195a",
+        "android_client_info": {
+          "package_name": "com.example.modul3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78829641647-lk7upn5bdcrk7vndi1sqqfdr9ffr4ggn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.modul3",
+            "certificate_hash": "d1df7cf5dca5a52f4cc7474db5408bf04862ad4b"
+          }
+        },
+        {
+          "client_id": "78829641647-m6ba8teim4mps4d2sp9aonsqpnl331i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzXVoPA1LGVPZHGYc-aUt1FM8jSfcndcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78829641647-m6ba8teim4mps4d2sp9aonsqpnl331i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
